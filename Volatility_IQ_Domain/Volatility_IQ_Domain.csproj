@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <Folder Include="Entities\Base\" />
+    <Folder Include="Entities\Busquedas\" />
+    <Folder Include="Entities\Reglas\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Enums\" />
   </ItemGroup>
